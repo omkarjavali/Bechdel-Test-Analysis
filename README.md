@@ -22,7 +22,22 @@ While the test is simple, the results are often shocking. Mant acclaimed films f
 ## 📈 Visualizations
 
 Here are some of the key visualizations generated in this project:
-- **Distribution of Bechdel Scores:** Understand how films from different decades perform on the BEchdel Test.
+- **Distribution of Bechdel Scores:** Understand how films from different decades perform on the Bechdel Test.
+
+![photo6](https://github.com/user-attachments/assets/7f57e77f-4a57-4fb1-a3f8-9066ac5811b5)
+
 - **IMDb Rating vs Bechdel Scores:** Explore the ralationship between a film's Bechdel Score and its IMDb rating.
+
+![photo9](https://github.com/user-attachments/assets/7d9558e8-454c-49bf-a56d-89e13f15f8c5)
+
 - **Impact of Director's Gender:** See how the gender of a film's director influences its Bechdel Test outcome.
+
+![photo12](https://github.com/user-attachments/assets/f3ef28a2-688e-4d2d-860e-addb70f2e5ba)
+
 - **Budget and Gross Revenue Analysis:** Discover whether passing the Bechdel Test impacts a film's financial success.
+
+![photo18](https://github.com/user-attachments/assets/8e123798-930a-447f-a0b2-d5911c8f880c)    
+
+
+![photo16](https://github.com/user-attachments/assets/dd3c17db-920e-483f-8671-cabd264f9508)
+
